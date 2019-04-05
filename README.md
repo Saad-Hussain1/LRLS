@@ -8,7 +8,7 @@ The Boston Housing dataset1 dataset contains 506 entries. Each entry consists of
 This data was loaded using scikit-learn's built-in module (see https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
 
 ## Locally Reweighted Least Squares
--- insert img here
+![LRLS](https://github.com/Saad-Hussain1/LRLS/blob/master/Images/LRLS-soln1.PNG?raw=true "LRLS")
 
 Derivation:\
--- insert img here
+![LRLS derivation](https://github.com/Saad-Hussain1/LRLS/blob/master/Images/LRLS-soln2.png?raw=true "LRLS derivation")
